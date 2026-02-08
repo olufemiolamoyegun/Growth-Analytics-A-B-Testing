@@ -101,7 +101,5 @@ Test hypotheses and validate strategies before rollout
 Olufemi Olamoyegun
 Data Analyst | Python | Growth & Product Analytics
 
-LinkedIn
-
-GitHub
+(LinkedIn) https://www.linkedin.com/in/olufemi-olamoyegun
 
