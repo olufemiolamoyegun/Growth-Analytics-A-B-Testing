@@ -98,7 +98,10 @@ Optional: Add screenshots or GIF of your Power BI / A/B dashboard here.
 Olufemi Olamoyegun
 Data Analyst | Python | Growth & Product Analytics
 
-[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
+🔗[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun)
+
+🔗 
+
 
 📊 GitHub Stats
 
