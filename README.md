@@ -113,9 +113,6 @@ The Variant outperformed Control in both conversion rate and revenue. With a **s
 
 🔗 [LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | 📂 [GitHub](https://github.com/olufemiolamoyegun)
 
----
-
-```
 
 
 
