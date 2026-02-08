@@ -1,3 +1,4 @@
+
 # 📈 Growth Analytics & A/B Testing
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]
@@ -38,22 +39,28 @@ import pandas as pd
 
 df = pd.read_csv("AB_Test.csv")
 df.head()
+
 Step 2: Basic Sanity Checks
 df.info()
 df.groupby("group")["converted"].mean()
+
 Checked data quality, missing values, and balanced sample sizes before analysis.
 
 Step 3: Conversion Rate Analysis
+
 conversion = df.groupby("group")["converted"].mean() * 100
 conversion
+
 Insight Example: Variant shows a +X% lift in conversion compared to Control.
 
 Step 4: Revenue Impact
+
 revenue = df.groupby("group")["revenue"].mean()
 revenue
-Variant not only improved conversion but also increased average revenue per user.
+Business Framing: Variant not only improved conversion but also increased average revenue per user.
 
 Step 5: Statistical Significance
+
 from statsmodels.stats.proportion import proportions_ztest
 
 control = df[df["group"]=="Control"]["converted"]
@@ -64,12 +71,16 @@ nobs = [len(variant), len(control)]
 
 stat, pval = proportions_ztest(count, nobs)
 pval
+
 Demonstrates understanding of hypothesis testing, not just charts.
 
 Step 6: Conclusion
-The Variant outperformed Control in both conversion rate and revenue. With a statistically significant p-value (<0.05), the experiment supports rolling out the Variant to all users.
+
+The Variant outperformed Control in both conversion rate and revenue.
+With a statistically significant p-value (<0.05), the experiment supports rolling out the Variant to all users.
 
 Step 7: Optional Power BI Dashboard
+
 Upload AB_Test.csv
 
 Create KPI cards:
@@ -80,9 +91,9 @@ Revenue per User
 
 Lift %
 
-Add a bar chart comparing Control vs Variant visually
+Add a bar chart comparing Control vs Variant visually.
 
-💡 Business Use Cases
+💡 Business Use Cases:
 
 Optimize product experiments with actionable insights
 
@@ -91,19 +102,16 @@ Make data-driven decisions for revenue and growth
 Test hypotheses and validate strategies before rollout
 
 🖼 Dashboard / Visual Preview
-Optional: Add screenshots or GIF of your Power BI / A/B dashboard here.
+Optional: Add screenshots or GIFs of your Power BI / A/B testing dashboard here.
 
 
 👤 Author
+
 Olufemi Olamoyegun
-Data Analyst | Python | Growth & Product Analytics
-
-🔗[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun)
-
-🔗 
+Data Analyst | Power BI | SQL | Workforce & Business Analytics
 
 
-📊 GitHub Stats
+
 
 
 
