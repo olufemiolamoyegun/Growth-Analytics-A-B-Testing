@@ -71,4 +71,4 @@ Test hypotheses before full-scale rollout.
 👤 Author
 Olufemi Olamoyegun Data Analyst | Python | Growth & Product Analytics
 
-🔗 LinkedIn | 📂 GitHub
+🔗 https://www.linkedin.com/in/olufemi-olamoyegun | 📂 https://github.com/olufemiolamoyegun
