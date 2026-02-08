@@ -96,12 +96,12 @@ Test hypotheses and validate strategies before rollout
 
 
 
-## 👤 Author
-**Olufemi Olamoyegun**  
-Data Analyst | Power BI | SQL | Workforce & Business Analytics  
+👤 Author
 
-[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
+Olufemi Olamoyegun
+Data Analyst | Python | Growth & Product Analytics
 
----
+LinkedIn
 
+GitHub
 
