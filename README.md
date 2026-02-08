@@ -88,18 +88,8 @@ Make data-driven decisions for revenue and growth
 
 Test hypotheses and validate strategies before rollout
 
-👤 Author
-Olufemi Olamoyegun
+👤 **Author**
+**Olufemi Olamoyegun**
 Data Analyst | Python | Growth & Product Analytics
 
 [LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olufemiolamoyegun&layout=compact)](https://github.com/olufemiolamoyegun)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olufemiolamoyegun&show_icons=true)](https://github.com/olufemiolamoyegun)
-
-
-
-📊 GitHub Stats
-
